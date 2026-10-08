@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define PRODUTOS 2
+#define PRODUTOS 5
 #define TAM_NOME 30
 
 void cadastro(char nomes[PRODUTOS][TAM_NOME], float preco[PRODUTOS],int quantidades[PRODUTOS]);
